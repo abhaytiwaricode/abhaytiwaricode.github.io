@@ -1,4 +1,4 @@
-<h1>Personal Portfolio Website - v0.1.0</h1>
+<h1>Personal Portfolio Website - v1.0.0</h1>
 
 ⭐ Star this repo on GitHub — it helps!
 
